@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://oresgl.com</id>
+    <title>Oresgl</title>
+    <updated>2022-06-09T14:00:22.842Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://oresgl.com"/>
+    <link rel="self" href="https://oresgl.com/atom.xml"/>
+    <logo>https://oresgl.com/images/avatar.png</logo>
+    <icon>https://oresgl.com/favicon.ico</icon>
+    <rights>All rights reserved 2022, Oresgl</rights>
+    <entry>
+        <title type="html"><![CDATA[Thanks for Stas Knop]]></title>
+        <id>https://oresgl.com/post/thanks-for-stas-knop/</id>
+        <link href="https://oresgl.com/post/thanks-for-stas-knop/">
+        </link>
+        <updated>2022-06-09T13:08:43.000Z</updated>
+        <summary type="html"><![CDATA[<p>Thanks for the free copyright of the page top cover image.<br>
+关于网页顶端封面图片免费版权的感谢。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Thanks for the free copyright of the page top cover image.<br>
+关于网页顶端封面图片免费版权的感谢。</p>
+<!-- more -->
+<blockquote>
+<p><img src="https://oresgl.com/post-images/1654780161270.jpg" alt="" loading="lazy"><br>
+<a href="https://www.pexels.com/">Pexels</a> 上的 <a href="https://www.pexels.com/@stasknop/">Stas Knop</a> 拍摄的 <a href="https://www.pexels.com/photo/person-holding-cassette-1319799/">Person Holding Cassette</a></p>
+</blockquote>
+]]></content>
+    </entry>
+</feed>
