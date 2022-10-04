@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://oresgl.com</id>
+    <title>Oresgl</title>
+    <updated>2022-10-04T06:09:50.379Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://oresgl.com"/>
+    <link rel="self" href="https://oresgl.com/atom.xml"/>
+    <logo>https://oresgl.com/images/avatar.png</logo>
+    <icon>https://oresgl.com/favicon.ico</icon>
+    <rights>All rights reserved 2022, Oresgl</rights>
+    <entry>
+        <title type="html"><![CDATA[Thanks for Yelena Odintsova]]></title>
+        <id>https://oresgl.com/post/thanks-for-yelena-odintsova/</id>
+        <link href="https://oresgl.com/post/thanks-for-yelena-odintsova/">
+        </link>
+        <updated>2022-10-04T06:08:19.000Z</updated>
+        <summary type="html"><![CDATA[<p>Thanks for the free copyright of the page top cover image.<br>
+关于网页顶端封面图片免费版权的感谢。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Thanks for the free copyright of the page top cover image.<br>
+关于网页顶端封面图片免费版权的感谢。</p>
+<!-- more -->
+<p><img src="https://oresgl.com/post-images/1664863748770.jpg" alt="" loading="lazy"><br>
+<a href="https://www.pexels.com/">Pexels</a> 上 <a href="https://www.pexels.com/@yelenaodintsova/">Yelena Odintsova</a> 分享的 <a href="https://www.pexels.com/photo/black-and-white-pattern-of-lines-10559026/">Photo</a></p>
+]]></content>
+    </entry>
+</feed>
